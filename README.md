@@ -1,9 +1,5 @@
 # Hi there, I'm KekOrbit 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=KekOrbit&color=blueviolet)  
-![GitHub Followers](https://img.shields.io/github/followers/KekOrbit?style=social)
-![Stars](https://img.shields.io/github/stars/KekOrbit?style=social)
-
 ## 🚀 About Me
 - 📅 Coding since: 2020
 - 🔭 Currently working on: eFlux
@@ -27,9 +23,3 @@ Here are some tools and technologies I work with:
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
