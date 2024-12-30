@@ -5,8 +5,8 @@
 ![Stars](https://img.shields.io/github/stars/KekOrbit?style=social)
 
 ## 🚀 About Me
-- 📅 Coding since: [2020]
-- 🔭 Currently working on: [eFlux]
+- 📅 Coding since: 2020
+- 🔭 Currently working on: eFlux
   - Alternative eKréta client 
 - 🌱 Learning:
   - Typescript
