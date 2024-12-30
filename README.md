@@ -7,14 +7,14 @@
 ## 🚀 About Me
 - 📅 Coding since: [2020]
 - 🔭 Currently working on: [eFlux]
-  - ## alternative eKréta client 
+  - Alternative eKréta client 
 - 🌱 Learning:
   - Typescript
   - React
   - Next JS (Framework)
-- 👯 Open to collaborating on: [Your expertise or projects of interest]
-- 💬 Ask me about: [Your specialty or interests]
-- 📫 Reach me: [Your Email or Social Links]
+- 📫 Reach me:
+  - Discord
+  - Email
 
 ---
 
@@ -33,7 +33,3 @@ Here are some tools and technologies I work with:
 ## 📈 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
-
----
-
-## 🌐 Connect with Me
