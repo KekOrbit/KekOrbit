@@ -1,16 +1,16 @@
 # Hi there, I'm KekOrbit 👋
 
 ## 🚀 About Me
-### - 📅 Coding since: 2020
-### - 🔭 Currently working on: eFlux
-  #### - Alternative eKréta client 
-### - 🌱 Learning:
-  #### - Typescript
-  #### - React
-  #### - Next JS (Framework)
-### - 📫 Reach me:
-  #### - Discord
-  #### - Email
+- 📅 Coding since: 2020
+- 🔭 Currently working on: eFlux
+  - Alternative eKréta client
+- 🌱 Learning:
+  - Typescript
+  - React
+  - Next JS (Framework)
+- 📫 Reach me:
+  - Discord
+  - Email
 
 ---
 
@@ -22,4 +22,4 @@ Here are some tools and technologies I work with:
 ![Typescript](https://img.shields.io/badge/-Typescript-0047AB?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
