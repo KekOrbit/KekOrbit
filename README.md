@@ -2,12 +2,6 @@
 
 ## 🚀 About Me
 - 📅 Coding since: 2020
-- 🔭 Currently working on: eFlux
-  - Alternative eKréta client
-- 🌱 Learning:
-  - Typescript
-  - React
-  - Next JS (Framework)
 - 📫 Reach me:
   - Discord
   - Email
